@@ -1,0 +1,5 @@
+# Mode aman: kecualikan folder besar & file rahasia
+node_modules/
+dist/
+bringit-backend/config.php
+*.log
